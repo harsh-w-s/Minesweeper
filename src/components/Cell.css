@@ -1,0 +1,24 @@
+.cell{
+    width: 25px;
+    height: 25px;
+    border: 1px solid black;
+    user-select: none; /* Prevents text selection by user while clicking */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgray;
+}
+
+.revealed {
+    background-color: lightgrey;
+    border: 1px solid gray;
+    font-weight: bold;
+}
+
+.cell:hover {
+    background-color: brown;
+}
+
+.bomb {
+    background-color: red;
+}
