@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Minesweeper Game 🎮💣
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple **Minesweeper** game built with **React.js**.
 
-## Available Scripts
+## Screenshots 📸
 
-In the project directory, you can run:
+### Game Start
+<img width="1919" height="1018" alt="Screenshot 2025-09-18 000618" src="https://github.com/user-attachments/assets/f9007a96-c6ca-4e40-a690-819f72c6ec1d" />
 
-### `npm start`
+### Playing the Game
+<img width="1919" height="1020" alt="Screenshot 2025-09-18 000636" src="https://github.com/user-attachments/assets/0b9f9be9-2477-4cd0-aa3c-41b1a5355a77" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Game Over / Win
+<img width="1919" height="1019" alt="Screenshot 2025-09-18 000646" src="https://github.com/user-attachments/assets/282a8e72-6f8d-4111-9477-b4eb3eca82c7" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Video
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://github.com/user-attachments/assets/abf0b0fe-b3cd-4c18-968f-7d5fb3faf2a0
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features ✨
+- Interactive grid
+- Flagging system
+- Timer to track gameplay
+- Alerts for win or lose
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Run Locally 🚀
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/harsh-w-s/Minesweeper.git
+cd Minesweeper
+npm install
+npm start
