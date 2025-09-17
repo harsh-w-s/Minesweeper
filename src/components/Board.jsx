@@ -204,7 +204,7 @@ const Board = ({ rows, cols, mines, ...rest }) => {
           Start
         </button>
         <div className="clock">
-          <img src={"/clock.png"}></img>
+          <img src={`${process.env.PUBLIC_URL}/clock.png`}></img>
           <h3>{timer}</h3>
         </div>
       </header>
